@@ -51,6 +51,13 @@ The dataset contains information about Adidas products including:
 2. Install required libraries
 3. Open the Jupyter Notebook
 
+## Conclusion
+
+The analysis revealed that most Adidas products fall within
+mid-range pricing. Highly rated products generally receive
+more customer reviews, indicating strong consumer trust.
+Discounts are applied selectively across categories.
+
 ## Author
 
 Vaishvi Patel
