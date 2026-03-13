@@ -4,6 +4,11 @@
 
 This project performs Exploratory Data Analysis (EDA) on Adidas product data to understand pricing trends, discounts, ratings, and product availability across markets.
 
+## Project Objective
+The goal of this project is to analyze Adidas product data to understand
+pricing trends, product ratings, discounts, and product availability
+across global markets using Python.
+
 ## Project Structure
 
 adidas-data-analysis-project
