@@ -4,6 +4,21 @@
 
 This project performs Exploratory Data Analysis (EDA) on Adidas product data to understand pricing trends, discounts, ratings, and product availability across markets.
 
+## Project Structure
+
+adidas-data-analysis-project
+│
+├── dataset
+│   └── adidas_products.csv
+│
+├── notebook
+│   └── adidas_data_analysis.ipynb
+│
+├── images
+│   └── charts
+│
+└── README.md
+
 ## Tools & Technologies
 
 * Python
